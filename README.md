@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciências de Dados | 💻 Desenvolvedora Frontend  
 📍 Anápolis, Goiás - Brasil  
-📱 Apaixonada por tecnologia, desenvolvimento mobile e web
+📱 Apaixonada por tecnologia, desenvolvimento mobile, web e Machine Learning.
 
 ---
 
